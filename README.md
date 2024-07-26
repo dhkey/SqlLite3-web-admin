@@ -17,3 +17,8 @@ _Server is writed on python using flask, its easy to rewrite it for the framewor
 -add autorization
 
 -add opportunity to delete/add records to database
+
+### LOCALIZATION
+
+- 🇺🇸: [a link](https://github.com/dhkey/SqlLite3-web-admin/edit/main/README.md)
+- 🇺🇦: [a link](https://github.com/dhkey/SqlLite3-web-admin/edit/main/README-UA.md)
