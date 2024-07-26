@@ -20,5 +20,5 @@ _Server is writed on python using flask, its easy to rewrite it for the framewor
 
 ### LOCALIZATION
 
-- 🇺🇸: [a link](https://github.com/dhkey/SqlLite3-web-admin/edit/main/README.md)
-- 🇺🇦: [a link](https://github.com/dhkey/SqlLite3-web-admin/edit/main/README-UA.md)
+- 🇺🇸: [a link](https://github.com/dhkey/SqlLite3-web-admin/main/README.md)
+- 🇺🇦: [a link](https://github.com/dhkey/SqlLite3-web-admin/main/README-UA.md)
