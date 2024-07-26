@@ -1,6 +1,8 @@
 # SQLITE3 WEB ADMIN INTERFACE
 Simple web admin interface that allows you to watch/edit rows of tables.
 
+_Server is writed on python using flask, its easy to rewrite it for the framework you need like aiohttp or django._
+
 ## FUNCTIONS:
 
 **-filters**
